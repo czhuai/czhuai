@@ -1,4 +1,4 @@
-- Hi, I’m @czhuai
+- Hi, I’m Owen ZHU
 - I’m interested in machine learning, data visualization, database and blockchain
 - I’m currently learning computer vision and time series forcasting
 
